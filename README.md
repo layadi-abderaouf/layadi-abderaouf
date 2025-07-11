@@ -72,5 +72,5 @@ Université Mohamed El Bachir El Ibrahimi – Algeria | 2024 – Present
 
 ## 📄 View My Resume
 
-➡️ [Click here to view my resume (PDF)](https://raw.githubusercontent.com/layadi-abderaouf/cv/main/Abderraouf_Layadi_CV.pdf)
+➡️ [Click here to view my resume (PDF)](https://github.com/layadi-abderaouf/layadi-abderaouf/blob/main/Abderraouf_Layadi_CV.pdf)
 
